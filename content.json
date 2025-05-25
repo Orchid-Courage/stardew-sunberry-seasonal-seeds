@@ -1,0 +1,14 @@
+{
+  "Format": "2.6.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "PatchMode": "Replace",
+      "Target": "skellady.SBVCP/Seeds",
+      "FromFile": "Assets/Seeds.png",
+      "When": {
+        "HasMod": "skellady.SBVCP"
+      }
+    }
+  ]
+}
