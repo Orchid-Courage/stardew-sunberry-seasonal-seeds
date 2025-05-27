@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "Content patcher version of sunberry seasonal seeds by pityachu",
   "UniqueID": "Orchid_Courage.SunberrySeasonalSeeds",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:34299" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },

@@ -1,20 +1,11 @@
 {
   "Format": "2.6.0",
-  "ConfigSchema": {
-    "enablemod": {
-      "AllowValues": "true, false",
-      "Default": true
-    }
-  },
   "Changes": [
     {
       "Action": "EditImage",
       "PatchMode": "Replace",
-      "Target": "skellady.SBVCP/Seeds",
-      "FromFile": "Assets/Seeds.png",
-      "When": {
-        "enablemod": true
-      }
+      "Target": "Mods/skellady.SBVCP/Seeds",
+      "FromFile": "Assets/Seeds.png"
     }
   ]
 }
